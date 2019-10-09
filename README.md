@@ -3,7 +3,9 @@
 Consumindo a Api do github
 
 Estilizando com Style-componentes
+
 Axios para fazer as requisições
+
 React-router-dom para a navegação
 
 Listando Repositórios as Issues
